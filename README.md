@@ -2,6 +2,7 @@
 
 Проект посвящён очистке данных автомобильного рынка Казахстана, разведочному анализу (EDA) и оценке рыночных позиций дилерского центра **«Меркур Авто»** (бренды Volkswagen, Audi, Porsche).
 
+Ссылка на коллаб: https://colab.research.google.com/github/kirkuzn/PAD_KURS/blob/main/PAD_KURS.ipynb
 ---
 
 ## Файлы в репозитории
